@@ -14,7 +14,7 @@ if_signal = np.cos(2 * np.pi * f_if * t)
 lo_signal = np.cos(2 * np.pi * f_lo * t)
 
 # Mixer (Multiplication)
-mixed_signal = if_signal * lo_signalh
+mixed_signal = if_signal * lo_signal
 
 # FFT helper
 def compute_fft(signal, fs):
