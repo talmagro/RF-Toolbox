@@ -1,7 +1,6 @@
 ## Mixer Theory
 
-An ideal RF mixer is simply a multiplier in the time domain.  
-The direct consequence is that, in the frequency domain, new spectral components appear at the sum and difference of the original frequencies.
+An ideal RF mixer is simply a multiplier in the time domain. The direct consequence is that, in the frequency domain, new spectral components appear at the sum and difference of the original frequencies.
 
 Assume:
 
